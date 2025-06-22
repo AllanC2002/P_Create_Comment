@@ -17,7 +17,7 @@ def create_comment(user_id, data):
             "Id_publication": ObjectId(id_publication),  
             "Id_user": int(user_id),               
             "Comment": comment_text,
-            "status":1,
+            "Status":1,
             "Likes": []  
         }
 
