@@ -15,7 +15,7 @@ env:
 
 jobs:
   test:
-    name: Test phase
+    name: Test Functional
     runs-on: ubuntu-latest
 
     steps:
