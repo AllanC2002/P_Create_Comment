@@ -14,8 +14,8 @@ token = login_response.json()["token"]
 print("Token:", token)
 
 comment_data = {
-    "Id_publication": "6858bb431ed97d52a0c6c02f",
-    "Comment": "Test comment by the developer"
+    "Id_publication": "68687919de34f79af1d7302b",
+    "Comment": "Test comment by the developer in the video"
 }
 
 headers = {
